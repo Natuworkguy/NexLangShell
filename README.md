@@ -10,7 +10,7 @@ NEXLANGSHELL (NLS) is a simple, interactive shell script that provides basic com
   - `list A`: Lists all files, including hidden ones.
   - `list L`: Lists files with detailed information.
   - `list AL` or `list LA`: Lists all files, including hidden ones, with detailed information.
-  - `dir<directory>`: Changes to the specified directory (e.g., `dir Documents`).
+  - `dir <directory>`: Changes to the specified directory (e.g., `dir Documents`).
   - `wami`: Displays the current working directory.
   - Unknown commands are handled with an error message.
 
